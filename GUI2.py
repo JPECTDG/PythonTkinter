@@ -12,6 +12,7 @@ class App:
 		
     def say_hi(self):
         print 'hi there,everyone!'
+        print 'I am making a bit change here!'
 	
 root = Tk()
 app = App(root)
